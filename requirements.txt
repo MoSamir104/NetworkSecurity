@@ -1,4 +1,5 @@
 python-dotenv
+pymongo[srv]
 pymongo
 certifi
 numpy
