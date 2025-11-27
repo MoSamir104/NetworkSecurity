@@ -1,0 +1,7 @@
+[2025-11-27 13:28:35,287 ] 13 root - INFO - Initiate the data ingestion
+[2025-11-27 13:28:39,565 ] 29 root - INFO - the data is imported successfuly
+[2025-11-27 13:28:52,705 ] 55 root - INFO - Performed train test split on the dataframe
+[2025-11-27 13:28:52,705 ] 56 root - INFO - Exited split_data_as_train_test method of data ingestion class
+[2025-11-27 13:28:52,705 ] 59 root - INFO - Exporting train and test file path
+[2025-11-27 13:28:52,767 ] 62 root - INFO - Exported train and test file path
+[2025-11-27 13:28:52,768 ] 16 root - INFO - Enter the try block

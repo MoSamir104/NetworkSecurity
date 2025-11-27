@@ -1,10 +1,17 @@
-Metadata-Version: 2.1
+Metadata-Version: 2.4
 Name: NetworkSecurity
 Version: 0.0.1
-Summary: UNKNOWN
-Home-page: UNKNOWN
-License: UNKNOWN
-Platform: UNKNOWN
-
-UNKNOWN
-
+Requires-Dist: python-dotenv
+Requires-Dist: pymongo[srv]
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: dill
+Requires-Dist: flask
+Dynamic: requires-dist
